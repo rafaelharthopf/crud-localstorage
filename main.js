@@ -10,6 +10,11 @@ const closeModal = () => {
 
 }
 
+const cancelModal = () => {
+      closeModal()
+      document.getElementById('cancelar').classList.remove('active')
+}
+
 
 const tempClient = {
       nome: "Nicolas",
@@ -167,3 +172,6 @@ document.getElementById('salvar')
 
 document.querySelector('#tableClient>tbody')
       .addEventListener('click', editDelete)
+
+document.getElementById('cancelar')
+      .addEventListener('click', cancelModal)
