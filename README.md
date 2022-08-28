@@ -9,7 +9,7 @@ inserido, editado e excluído esteja salvo no servidor onde foi iniciado o proje
 Hora que sair da aplicação e abrir novamente, vai estar salvo os cadastros feito, salvando no 
 localstorage.
 
-Essa é a página inicial da aplicação:
+Essa é a página inicial da aplicação quando abrir:
 ![1661694751185](https://user-images.githubusercontent.com/78979408/187077852-14eb9fe5-d242-4d24-b3d4-7511adf2238e.jpeg)
 
 Essa é a página onde irá cadastrar novos usuários:
